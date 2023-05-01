@@ -1,0 +1,27 @@
+
+.center {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.border{
+    border: 6px solid #0d8009;
+    border-radius: 5cm;
+    border-inline-color: #c4b479;
+    border-inline-start-width: 15px;
+    border-inline-end-width: 15px;
+}  
+  
+.font_strong{
+    font-weight: bold;
+}
+
+.fantasy_font {
+    font-family:papyrus;
+}
+
+.font {
+    font-style: italic;
+}
